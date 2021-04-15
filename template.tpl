@@ -18,7 +18,7 @@ ___INFO___
   "containerContexts": [
     "WEB"
   ],
-  "categories": ["ANALYTICS", "MARKETING"],
+  "categories": ["ANALYTICS", "MARKETING"]
 }
 
 
