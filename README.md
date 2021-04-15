@@ -24,7 +24,7 @@ Product properties available
 | `SKU`                  | The product SKU                                 | String        |
 | `Variant Name`         | The product variant name                        | String        |
 | `Variant ID`           | The Shopify variant ID                          | String        |
-| `Whole Product Object` | An object will all of the raw properties        | String        |
+| `Whole Product Object` | An object with all of the above raw properties  | Object        |
 
 \* Can be converted to a number
 
