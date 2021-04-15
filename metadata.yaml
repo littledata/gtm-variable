@@ -2,6 +2,6 @@ homepage: "https://www.littledata.io/"
 documentation: "https://blog.littledata.io/help/posts/gtm-and-google-analytics-data-layer-for-shopify/"
 versions:
   # Latest version
-  - sha: TBC
+  - sha: c1b1e43b532f4ed21fa201ffa8f0ad09e12aa514
     changeNotes: Launch of Shopify variable.
   # Older versions
